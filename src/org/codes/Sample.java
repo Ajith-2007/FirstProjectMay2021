@@ -5,6 +5,8 @@ public class Sample {
 		
 		String name ="Greens";
 		System.out.println(name);
+		int a =20;
+		System.out.println(a);
 	}
 
 }
